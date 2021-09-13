@@ -30,4 +30,29 @@ $(document).ready(function(){
   });
   });
   
-  
+
+
+  $(document).ready(function(){
+    $("#gray_background").mouseover(function(){
+      $("#white_front0").show();
+    }).mouseout(function(){
+        $("#white_front0").hide();
+    });
+    $("#ontario").mouseover(function(){
+      $("#white_front1").show();
+    }).mouseout(function(){
+        $("#white_front1").hide();
+    });
+ });
+ $(document).ready(function(){
+    $("#orange_brown").mouseover(function(){
+      $("#white_front2").show();
+    }).mouseout(function(){
+        $("#white_front2").hide();
+    });
+    $("#jim_carey_").mouseover(function(){
+      $("#white_front3").show();
+    }).mouseout(function(){
+        $("#white_front3").hide();
+    });
+ });  
