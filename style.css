@@ -596,7 +596,7 @@ div { position: absolute; }
             width: 600px;
             font-size: 15px;
          }
-         h1{
+h1{
             top: 1845px;
             margin: 20px;
             position: relative;
@@ -604,17 +604,42 @@ div { position: absolute; }
             font-family: Lato;
             left: 195px;
         }
-        h2{
+h2{
             top: 1855px;
             position: relative;
             font-size: 18px;
             font-family: Lato;
             left: 640px;
         }
-        h3{
+h3{
             top: 1855px;
             position: relative;
             font-size: 18px;
             font-family: Lato;
             left: 1100px;
+        }
+        #pdesign2, #pdevelopment2, #product2{
+            display: none;
+        }
+        ::placeholder {
+            color: #ffffff;
+            opacity: 1;
+          }
+        #submit{
+            position: absolute;
+            top: 2970px;
+            left: 180px;
+            width: 90px;
+            -ms-border-radius: 15px;
+            -o-border-radius: 15px;
+            -moz-border-radius: 15px;
+            -webkit-border-radius: 15px;
+            border-radius: 5px;
+            background-color: cornflowerblue;
+            text-shadow: black;
+            color: cornsilk;
+            font-family: poppins;
+            font-size: 15px;
+            font-weight: bolder;
+            box-shadow:5px5px5px#eee;
         }
