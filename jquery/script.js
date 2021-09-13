@@ -55,4 +55,26 @@ $(document).ready(function(){
     }).mouseout(function(){
         $("#white_front3").hide();
     });
+ });
+ $(document).ready(function(){
+    $("#work5_1").mouseover(function(){
+      $("#white_front4").show();
+    }).mouseout(function(){
+        $("#white_front4").hide();
+    });
+    $("#work6_1").mouseover(function(){
+      $("#white_front5").show();
+    }).mouseout(function(){
+        $("#white_front5").hide();
+    });
+    $("#work7_1").mouseover(function(){
+      $("#white_front6").show();
+    }).mouseout(function(){
+        $("#white_front6").hide();
+    });
+    $("#work8_1").mouseover(function(){
+      $("#white_front7").show();
+    }).mouseout(function(){
+        $("#white_front7").hide();
+    });
  });  
