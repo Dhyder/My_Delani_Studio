@@ -77,4 +77,8 @@ $(document).ready(function(){
     }).mouseout(function(){
         $("#white_front7").hide();
     });
- });  
+ });
+ 
+function popup(){
+    swal("Oops!", "Message not Sent", "error");
+    } 
