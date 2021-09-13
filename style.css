@@ -129,3 +129,64 @@ div { position: absolute; }
 	color:#000000;
 }
 
+
+
+#development {
+	top: 1971px;
+	left: 607px;
+	width: 203px;
+	height: 41px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 18px;
+	text-align: center;
+	color:#000000;
+}
+
+
+#product_management {
+	top: 1975px;
+	left: 1055px;
+	width: 295px;
+	height: 41px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 18px;
+	text-align: center;
+	color:#000000;
+}
+
+
+#portfolio {
+	top: 2070px;
+	left: 524px;
+	width: 379px;
+	height: 55px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 36px;
+	text-align: center;
+	color:#000000;
+}
+
+
+#c_image_1 {
+	top: 2562px;
+	left: 0px;
+	width: 1440px;
+	height: 512.25px;
+}
+
+
+#contact_us {
+	top: 2585px;
+	left: 510px;
+	width: 408px;
+	height: 77px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 36px;
+	text-align: center;
+	color:#FFFFFF;
+}
+
