@@ -596,3 +596,25 @@ div { position: absolute; }
             width: 600px;
             font-size: 15px;
          }
+         h1{
+            top: 1845px;
+            margin: 20px;
+            position: relative;
+            font-size: 18px;
+            font-family: Lato;
+            left: 195px;
+        }
+        h2{
+            top: 1855px;
+            position: relative;
+            font-size: 18px;
+            font-family: Lato;
+            left: 640px;
+        }
+        h3{
+            top: 1855px;
+            position: relative;
+            font-size: 18px;
+            font-family: Lato;
+            left: 1100px;
+        }
