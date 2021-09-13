@@ -618,28 +618,28 @@ h3{
             font-family: Lato;
             left: 1100px;
         }
-        #pdesign2, #pdevelopment2, #product2{
-            display: none;
-        }
-        ::placeholder {
-            color: #ffffff;
-            opacity: 1;
-          }
-        #submit{
-            position: absolute;
-            top: 2970px;
-            left: 180px;
-            width: 90px;
-            -ms-border-radius: 15px;
-            -o-border-radius: 15px;
-            -moz-border-radius: 15px;
-            -webkit-border-radius: 15px;
-            border-radius: 5px;
-            background-color: cornflowerblue;
-            text-shadow: black;
-            color: cornsilk;
-            font-family: poppins;
-            font-size: 15px;
-            font-weight: bolder;
-            box-shadow:5px5px5px#eee;
-        }
+#pdesign2, #pdevelopment2, #product2{
+	display: none;
+}
+::placeholder {
+	color: #ffffff;
+	opacity: 1;
+  }
+#submit{
+	position: absolute;
+	top: 2970px;
+	left: 180px;
+	width: 90px;
+	-ms-border-radius: 15px;
+	-o-border-radius: 15px;
+	-moz-border-radius: 15px;
+	-webkit-border-radius: 15px;
+	border-radius: 5px;
+	background-color: cornflowerblue;
+	text-shadow: black;
+	color: cornsilk;
+	font-family: poppins;
+	font-size: 15px;
+	font-weight: bolder;
+	box-shadow:5px5px5px#eee;
+}
