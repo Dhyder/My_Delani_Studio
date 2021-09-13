@@ -190,3 +190,91 @@ div { position: absolute; }
 	color:#FFFFFF;
 }
 
+
+
+#name_box {
+	top: 2678px;
+	left: 138px;
+	width: 461px;
+	height: 32px;
+	border: 1px solid #ffffff;
+	background:rgba(255,255,255,0);
+	position: absolute;
+	color: #FFFFFF;
+	font-size: 18px;
+	text-decoration-color: white;
+}
+
+
+
+#email_box {
+	top: 2678px;
+	left: 653px;
+	width: 461px;
+	height: 32px;
+	border: 1px solid #ffffff;
+	background:rgba(255,255,255,0);
+	position: absolute;
+}
+
+
+#email___ {
+	top: 2678px;
+	left: 653px;
+	width: 461px;
+	height: 32px;
+	overflow: hidden;
+	background:rgba(255,255,255,0);
+	border: 1px solid #ffffff;
+	color: white;
+	position: absolute;
+	font-family: poppins;
+	font-size: medium;
+	font-size: 18px;
+}
+
+
+#message_box {
+	top: 2731px;
+	left: 180px;
+	width: 934px;
+	height: 220px;
+	border: 1px solid #ffffff;
+	background:rgba(255,255,255,0);
+	overflow: visible;
+}
+
+
+#your_message_here___ {
+	top: 2731px;
+	left: 180px;
+	width: 934px;
+	height: 220px;
+	font-family: poppins;
+	font-size: 18px;
+	color:#FFFFFF;
+	background:rgba(255,255,255,0);
+	position: absolute;
+	border: 1px solid #ffffff;
+}
+
+
+#delani_studio_2019 {
+	top: 3213px;
+	left: 636px;
+	width: 152px;
+	height: 41px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 18px;
+	text-align: center;
+	color:#000000;
+}
+
+
+#dribble_1 {
+	top: 3122px;
+	left: 409px;
+	width: 50px;
+	height: 50px;
+}
