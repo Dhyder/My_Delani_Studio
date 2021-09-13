@@ -1,0 +1,8 @@
+@media only screen and (max-device-width: 480px), only screen and (-webkit-min-device-pixel-ratio: 2) , screen and (-webkit-device-pixel-ratio:1.5){}
+body { margin: 0px; padding: 0px; font-family:"Arial"; overflow-x:hidden; }
+img { position: absolute; display: block; margin: 0px; border: none; padding: 0px; }
+div { position: absolute; }
+
+#content-container { display: block; position: relative; width: 1440px;  margin-left: auto; margin-right: auto;  }
+
+#content-container > div{ position: relative; top:inherit; }
