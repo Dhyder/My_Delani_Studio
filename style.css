@@ -29,3 +29,55 @@ div { position: absolute; }
 	height: 1024px;
 }
 
+
+
+#welcome {
+	top: 490px;
+	left: 570px;
+	width: 310px;
+	height: 112px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 56px;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+
+#to_delani_studio {
+	top: 577px;
+	left: 452px;
+	width: 546px;
+	height: 115px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 56px;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+
+#amazing_people_are_making_amazing_designs_in_a_fun_environment {
+	top: 667px;
+	left: 410px;
+	width: 915px;
+	height: 46px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 18px;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+
+#about_us {
+	top: 1068px;
+	left: 602px;
+	width: 240px;
+	height: 74.5px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 45px;
+	text-align: left;
+	color:#000000;
+}
