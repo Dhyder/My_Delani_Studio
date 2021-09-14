@@ -24,6 +24,7 @@ https://dhyder.github.io/My_Delani_Studio/
 - Sweet alert
 
 ## Possible Bugs
+* Mailchimp not fully functional.
 * Site may not be fully responsive on some devices.
 ## Author's Contact Information
 For any queries, you can reach out at [desastrecaliente@gmail.com]
