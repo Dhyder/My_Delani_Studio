@@ -157,8 +157,8 @@ $(document).ready(function(){
       let message = $("textarea#your_message_here___").val();
 
       if ($("input#name_box").val() && $("input#email___").val()){
-          swal("Thankyou!" + name + "", "Message Sent", "success");
-          alert("Thankyou for your feedback" + "", name)
+          swal("Thankyou! " +  name + "", "Message Sent", "success");
+          alert("We appreciate you reaching out to us" + "", name)
       }
   });
 
