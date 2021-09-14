@@ -1,5 +1,5 @@
 # My_Delani_Studio
-A scope into the world  into the software development gallery
+A scope into the world  of a software development gallery.
 # **Author**
 [Dhyder](https://github.com/Dhyder)
 
