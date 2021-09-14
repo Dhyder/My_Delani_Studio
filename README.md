@@ -1,5 +1,5 @@
 # My_Delani_Studio
-A scope into the world  into the software development gallery
+A scope into the world  of a software development gallery.
 # **Author**
 [Dhyder](https://github.com/Dhyder)
 
@@ -25,7 +25,6 @@ https://dhyder.github.io/My_Delani_Studio/
 
 ## Possible Bugs
 * Site may not be fully responsive on some devices.
-* On user text submission slight delay leading to recurred oops popup on Sweetalert.
 ## Author's Contact Information
 For any queries, you can reach out at [desastrecaliente@gmail.com]
 ## License
